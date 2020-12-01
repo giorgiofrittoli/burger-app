@@ -109,7 +109,6 @@ class BurgerBuilder extends Component {
         );
     }
 
-
     render() {
         const disabledInfo = {
             ...this.state.ingredients
